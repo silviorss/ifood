@@ -1,0 +1,8 @@
+restaurante:
+  - ID: 123
+    NOME: "Restaurante 1"
+    PROPRIETARIO: "ID Keycloak"
+  - ID: 234
+    NOME: "Restaurante 2"
+    PROPRIETARIO: "ID Keycloak 2"
+    
